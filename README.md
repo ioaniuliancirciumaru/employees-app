@@ -4,4 +4,6 @@
 
 ### For this project I used Flask and PostgreSQL.
 
+### To run this app install all the required dependencies from the requirements.txt file with **pip install -r requirements.txt**.
+
 ![](images/example.png)
